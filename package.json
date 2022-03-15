@@ -1,0 +1,19 @@
+{
+  "name": "vivifyideas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Game.js",
+  "scripts": {
+    "start": "node ./Game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivan-Slavkovic/Vivify_Ideas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivan-Slavkovic/Vivify_Ideas/issues"
+  },
+  "homepage": "https://github.com/Ivan-Slavkovic/Vivify_Ideas#readme"
+}
